@@ -1,5 +1,5 @@
 ##Halo 4 Stats API
-**Built using PHP** -  [Demo Here](http://regimbal.me)
+**Built using PHP** -  [Demo Here](http://regimbal.me/stats)
 
 I have seen other APIs on the internet but they all required a windows server and were, in my opinion, complicated as hell to configure and get working. This is barely an API.. more of a connection to get you started. The authentication works and data can easily be pulled.
 
